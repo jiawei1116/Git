@@ -1,0 +1,13 @@
+1.安裝時,需先安裝 git for windows
+2.再安裝tortoise git 
+
+windows
+GitHub 第一坑：換行符號自動轉換
+https://github.com/cssmagic/blog/issues/22
+
+
+Git on Windows 安裝筆記
+http://blog.crboy.net/2012/05/git-on-windows.html
+
+使用TortoiseGit下载GitHub源码
+https://github.com/banq/jdonframework/wiki/%E4%BD%BF%E7%94%A8TortoiseGit%E4%B8%8B%E8%BD%BDGitHub%E6%BA%90%E7%A0%81
